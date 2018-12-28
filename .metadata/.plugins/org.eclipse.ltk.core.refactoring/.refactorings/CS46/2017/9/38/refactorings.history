@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FindPermutations&apos; to &apos;Permutations&apos;&#x0A;- Original project: &apos;CS46&apos;&#x0A;- Original element: &apos;FindPermutations&apos;&#x0A;- Renamed element: &apos;Permutations&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FindPermutations&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{FindPermutations.java[FindPermutations" matchStrategy="1" name="Permutations" qualified="false" references="true" similarDeclarations="false" stamp="1505712505326" textual="false" version="1.0"/>
+</session>

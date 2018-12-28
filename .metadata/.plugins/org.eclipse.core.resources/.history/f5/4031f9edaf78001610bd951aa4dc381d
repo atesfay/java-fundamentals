@@ -1,0 +1,20 @@
+
+public class Main {
+	public static void main(String[] args) {
+		// Call Methods
+		Account absAccount = new Account();//("12345",0.00, "Abe Tesfay", "email@abe.com","(408) 123-4567");
+		System.out.println("Customer Account Number : " +absAccount.getNumber());
+		System.out.println("   Name : " +absAccount.getCustomerName());
+		System.out.println("   email Address : " +absAccount.getCustomerEmailAddress());
+		System.out.println("   Phone Number : " +absAccount.getCustomerPhoneNumber());
+		System.out.println("   Account Balance : " +absAccount.getBalance());
+		absAccount.withdrawal(100.0);
+		
+		absAccount.deposit(50.0);
+		absAccount.withdrawal(100.0);
+		
+		absAccount.deposit(51.0);
+		absAccount.withdrawal(100.0);
+	}
+
+}

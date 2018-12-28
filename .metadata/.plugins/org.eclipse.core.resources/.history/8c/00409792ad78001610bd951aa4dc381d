@@ -1,0 +1,15 @@
+
+public class Main {
+	public static void main(String[] args) {
+		// Call Methods
+		Account absAccount = new Account();
+		absAccount.withdrawal(100.0);
+		
+		absAccount.deposit(50.0);
+		absAccount.withdrawal(100.0);
+		
+		absAccount.deposit(51.0);
+		absAccount.withdrawal(100.0);
+	}
+
+}

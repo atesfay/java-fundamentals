@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;LIstAndArrayList&apos; to &apos;ListAndArrayList&apos;&#x0A;- Original project: &apos;ListAndArrayList&apos;&#x0A;- Original element: &apos;LIstAndArrayList&apos;&#x0A;- Renamed element: &apos;ListAndArrayList&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LIstAndArrayList&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{LIstAndArrayList.java[LIstAndArrayList" matchStrategy="1" name="ListAndArrayList" qualified="false" references="true" similarDeclarations="false" stamp="1504478810350" textual="false" version="1.0"/>
+</session>
