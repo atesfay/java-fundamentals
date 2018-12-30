@@ -1,0 +1,17 @@
+package com.incubatecode.packagechallange;
+
+public class Series {
+	
+	public static long nSum(int n){
+		
+	}
+	
+	public static long factorial(int n){
+		
+	}
+	
+	public static long fibonacci(int n){
+		
+	}
+
+}

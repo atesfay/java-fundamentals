@@ -1,0 +1,24 @@
+package com.incubatecode.packagechallange;
+
+public class Series {
+	
+	public static long findnSum(int n){
+		return (n * (n + 1)) / 2;
+	}
+	
+	public static long findFactorial(int n){
+		if (n == 0){
+			return 1;
+		}
+		long factorial = 1;
+		for (int i = 0; i < n; i++) {
+			factorial *= i;
+		}
+		return factorial;
+	}
+	
+	public static long findFibonacci(int n){
+		
+	}
+
+}

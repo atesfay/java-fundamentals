@@ -1,0 +1,7 @@
+package com.incubatecode.collections;
+
+public class Seat {
+	private final String seatNumber;
+	private boolean reserved = false;
+
+}

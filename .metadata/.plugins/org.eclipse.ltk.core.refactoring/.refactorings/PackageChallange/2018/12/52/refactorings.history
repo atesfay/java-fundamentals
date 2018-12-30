@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.incubate.packagechallange&apos; to &apos;com.incubatecode.packagechallange&apos;&#x0A;- Original project: &apos;PackageChallange&apos;&#x0A;- Original element: &apos;PackageChallange/src/com.incubate.packagechallange&apos;&#x0A;- Renamed element: &apos;PackageChallange/src/com.incubatecode.packagechallange&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.incubate.packagechallange&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.incubate.packagechallange" name="com.incubatecode.packagechallange" qualified="false" references="true" stamp="1546118436565" textual="false" version="1.0"/>
+</session>
