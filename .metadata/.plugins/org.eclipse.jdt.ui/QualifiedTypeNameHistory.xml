@@ -34,7 +34,6 @@
 <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="Song"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="ISaveable"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -45,4 +44,6 @@
 <fullyQualifiedTypeName name="CanFly"/>
 <fullyQualifiedTypeName name="Animal"/>
 <fullyQualifiedTypeName name="NodeList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.incubatecode.collections.Theatre"/>
 </qualifiedTypeNameHistroy>

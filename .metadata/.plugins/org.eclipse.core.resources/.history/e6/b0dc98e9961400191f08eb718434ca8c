@@ -1,0 +1,11 @@
+package com.incubatecode.map;
+
+import org.omg.CORBA.PRIVATE_MEMBER;
+
+public class App {
+	
+	public static void main(String[] args) {
+		private static Map<Integer, Location> locations = new HashMap<Integer, Location>();
+	}
+
+}
