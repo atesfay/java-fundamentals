@@ -1,0 +1,8 @@
+package com.incubatecode.setschallenege;
+
+public class DwarfPlanet {
+    public DwarfPlanet(String name, double orbitalPeriod) {
+        super(name, orbitalPeriod, BodyTypes.DWARF_PLANET);
+    }
+
+}
