@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.incubatecode.sortedcollections.StockIteam&apos; to &apos;StockItem&apos;&#x0A;- Original project: &apos;SortedCollections&apos;&#x0A;- Original element: &apos;com.incubatecode.sortedcollections.StockIteam&apos;&#x0A;- Renamed element: &apos;com.incubatecode.sortedcollections.StockItem&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StockIteam&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.incubatecode.sortedcollections{StockIteam.java[StockIteam" matchStrategy="1" name="StockItem" qualified="false" references="true" similarDeclarations="true" stamp="1547416321478" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+package com.incubatecode.sortedcollections;
+
+public class StockIteam implements Comparable<StockIteam>{
+	private final String name;
+	private double price;
+	private int quantitiyStock = 0;//can be initialized later
+	
+	public StockIteam(String name, double price){
+		this.name = name;
+		this.price = price;
+		this.quantitiyStock = 0;	// or here 
+	}
+
+}
